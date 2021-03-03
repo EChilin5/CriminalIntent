@@ -1,5 +1,5 @@
 # Criminal Intent
-<img src="https://github.com/EChilin5/CriminalIntent/blob/master/CriminalIntent.gif" width="250" />
+<img src="https://github.com/EChilin5/CriminalIntent/blob/master/Chilin_Edgar_AppVideo.gif" width="250" />
 
 #### Task
 - [x] Display title, date, image.
