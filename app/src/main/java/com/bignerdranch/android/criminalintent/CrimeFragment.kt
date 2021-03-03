@@ -107,7 +107,7 @@ class CrimeFragment : Fragment(), DatePickerFragment.Callbacks  {
     }
 
     private fun getDateFormat(date: Date): String{
-        val dateFormat = DateFormat.format("EEEE, MMM dd, yyyy.", date);
+        val dateFormat = DateFormat.format("EEEE, MMM dd, yyyy", date);
         return dateFormat.toString()
     }
 
